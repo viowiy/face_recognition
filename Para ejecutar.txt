@@ -1,0 +1,6 @@
+Para ejecutar la aplicación:
+
+cd C:\Personal\Maestría en Ciencia de Datos\Asignaturas\04 - Redes Neuronales Profundas\Ejercicios\FaceRecognition\_Mi App
+conda activate facer2
+streamlit run main.py
+@ Final
